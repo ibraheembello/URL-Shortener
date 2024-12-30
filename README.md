@@ -2,6 +2,8 @@
 
 A simple URL shortening service with statistics tracking.
 
+Project based on [roadmap.sh URL Shortening Service](https://roadmap.sh/projects/url-shortening-service)
+
 ## Features
 
 - Shorten long URLs
